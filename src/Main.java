@@ -5,5 +5,6 @@ public class Main {
 
 
         System.out.print("Goodbye, everyone!");
+        System.out.println("First Conflict");
     }
 }
